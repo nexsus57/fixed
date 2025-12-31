@@ -1,0 +1,1 @@
+// This file is ignored. Next.js uses src/app/layout.tsx
